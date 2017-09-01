@@ -1,5 +1,5 @@
 object HelloScala extends App {
-  println("Hello, Scala!")
+  println("Hello, scala!")
 
 }
 
